@@ -1,0 +1,894 @@
+{
+  "locations": [
+    {
+      "id": "ddfcb151-f5db-4886-8616-f13b6d6d95ba",
+      "name": "Kutch Inc",
+      "city": "Arvika",
+      "address": "23 Kennedy Alley, Arvika",
+      "assignedUsers": "Chevalier Ritchie",
+      "assignedVendors": "Streich and Sons",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Studio, My house, New loc, test1, loc2"
+    },
+    {
+      "id": "2bde9a36-bd15-446e-85bc-ceeaa355041c",
+      "name": "Larson-Crona",
+      "city": "São Pedro Gafanhoeira",
+      "address": "024 Warner Park, São Pedro Gafanhoeira",
+      "assignedUsers": "Rollie Blacktin",
+      "assignedVendors": "Anderson, Heathcote and Runolfsdottir",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Technical room, Swimming pool"
+    },
+    {
+      "id": "84102a73-52c5-4b68-b75f-7775fefa6862",
+      "name": "Thompson, Davis and Johnson",
+      "city": "Tucson",
+      "address": "488 Charing Cross Parkway, Tucson",
+      "assignedUsers": "Mattheus Keoghane",
+      "assignedVendors": "Nicolas and Sons",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "70cd77ad-222c-4dcc-80db-d02b1c76be14",
+      "name": "Cole and Sons",
+      "city": "Oussivo",
+      "address": "741 Logan Pass, Oussivo",
+      "assignedUsers": "Antonia Schlag",
+      "assignedVendors": "Ratke-Kreiger",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "e4a2d542-051f-4b95-9fc7-74d340c02f9c",
+      "name": "Rolfson, Braun and Pfannerstill",
+      "city": "Polo",
+      "address": "12 School Terrace, Polo",
+      "assignedUsers": "Burnaby Sheryn",
+      "assignedVendors": "Wiegand and Sons",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "d0a58df5-6ae3-447a-b956-4cfc98fcc9c3",
+      "name": "Gerhold, Sporer and Grady",
+      "city": "Paurito",
+      "address": "3 Algoma Court, Paurito",
+      "assignedUsers": "Rhianon Dawnay",
+      "assignedVendors": "Spencer, Watsica and Buckridge",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "75a62286-eb46-4bca-9659-4d718b2b85af",
+      "name": "Pouros Group",
+      "city": "Oleiros",
+      "address": "48 Arrowood Hill, Oleiros",
+      "assignedUsers": "Ralf O'Curran",
+      "assignedVendors": "Heaney, Gottlieb and Hudson",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Carving room"
+    },
+    {
+      "id": "504da556-24ae-4c67-8e83-894993b868b7",
+      "name": "Runolfsson and Sons",
+      "city": "Herrljunga",
+      "address": "7 Farwell Way, Herrljunga",
+      "assignedUsers": "Cordey Wyche",
+      "assignedVendors": "Pollich-Streich",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "eb2e8810-e061-4309-af36-9ea3744557f9",
+      "name": "Mayer Inc",
+      "city": "Tongouson",
+      "address": "15 Arrowood Center, Tongouson",
+      "assignedUsers": "Angy Knivett",
+      "assignedVendors": "Dare LLC",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "b171746a-4eaa-4cc5-9e71-6512f56942ca",
+      "name": "Casper-Ziemann",
+      "city": "Zbýšov",
+      "address": "1111 Bayside Alley, Zbýšov",
+      "assignedUsers": "Sayers Korn",
+      "assignedVendors": "Bruen Group",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Carving room"
+    },
+    {
+      "id": "519585bb-ecf9-4c6e-a69c-bc1a2d441b85",
+      "name": "Bode and Sons",
+      "city": "Jiaowei",
+      "address": "0485 Kingsford Street, Jiaowei",
+      "assignedUsers": "Hervey Allsepp",
+      "assignedVendors": "Ebert-Koepp",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "a2290dca-b6b4-4f83-a6a1-c418b299b41d",
+      "name": "Green and Sons",
+      "city": "Rochester",
+      "address": "182 Nobel Point, Rochester",
+      "assignedUsers": "Yehudit Kilbane",
+      "assignedVendors": "Satterfield Inc",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "e0f61476-a752-4617-881e-91a448a45de4",
+      "name": "Williamson, Reichel and Lesch",
+      "city": "Chenzui",
+      "address": "2588 Luster Street, Chenzui",
+      "assignedUsers": "Camila Kynton",
+      "assignedVendors": "Wolff and Sons",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "191c6e88-8211-4f51-9494-9a091a748451",
+      "name": "Deckow-Jenkins",
+      "city": "Älvsjö",
+      "address": "217 Corscot Point, Älvsjö",
+      "assignedUsers": "Hyacinthie Targe",
+      "assignedVendors": "Stiedemann LLC",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "45ac2f13-c908-4cca-84e9-acdf81c3c5f6",
+      "name": "Bode Inc",
+      "city": "Shādegān",
+      "address": "68965 Westport Junction, Shādegān",
+      "assignedUsers": "Fleming Shucksmith",
+      "assignedVendors": "Maggio, Hermiston and Toy",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "d48103e0-4ba8-4f58-9dd0-389c777ffbd8",
+      "name": "Hodkiewicz-Bednar",
+      "city": "Stockholm",
+      "address": "31 Grim Junction, Stockholm",
+      "assignedUsers": "Brianna Jedrzejewsky",
+      "assignedVendors": "Murazik-Kovacek",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "602347bf-7244-4cf2-95fe-1d4d593ebfda",
+      "name": "Bernhard LLC",
+      "city": "Longchiqiao",
+      "address": "06 Veith Park, Longchiqiao",
+      "assignedUsers": "Darrelle Pawelec",
+      "assignedVendors": "Ruecker LLC",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "ef55c2da-e7b1-4e55-b501-7757224d97aa",
+      "name": "Muller-Reichel",
+      "city": "Mekarsari",
+      "address": "8568 Oakridge Drive, Mekarsari",
+      "assignedUsers": "Jamal Watman",
+      "assignedVendors": "Rice, Swift and Stanton",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "2a6b96b8-06ab-4f4b-a4f6-5f88c925ed78",
+      "name": "Kling and Sons",
+      "city": "Newark",
+      "address": "650 Lakewood Hill, Newark",
+      "assignedUsers": "Ulrikaumeko Collough",
+      "assignedVendors": "Wehner-Monahan",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "f4239785-f616-4c4e-a8ff-b16473572cb0",
+      "name": "Pfannerstill Inc",
+      "city": "Andkhōy",
+      "address": "9 Ridgeview Street, Andkhōy",
+      "assignedUsers": "Gerome Karel",
+      "assignedVendors": "Wisozk-Pagac",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "c520deab-66b6-4807-8401-4555352bd48b",
+      "name": "Bernhard, Berge and Leffler",
+      "city": "Gýtheio",
+      "address": "72 Chive Way, Gýtheio",
+      "assignedUsers": "Chris Midden",
+      "assignedVendors": "Daniel and Sons",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "80514088-41a4-4ea2-aa58-0629be80580c",
+      "name": "Corkery-Bartoletti",
+      "city": "Kamyanyuki",
+      "address": "28 Merchant Place, Kamyanyuki",
+      "assignedUsers": "Catharine Nelligan",
+      "assignedVendors": "Gulgowski LLC",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "92e9fb25-c863-476f-b409-aad8fc843bcd",
+      "name": "Hand, Tremblay and Hayes",
+      "city": "Sơn Tây",
+      "address": "7 Melrose Crossing, Sơn Tây",
+      "assignedUsers": "Lothario Brome",
+      "assignedVendors": "Purdy LLC",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "a64b9e1a-c312-4596-afea-91999311b69b",
+      "name": "Langosh-Casper",
+      "city": "Talalora",
+      "address": "9 Pepper Wood Avenue, Talalora",
+      "assignedUsers": "Virgie Jakubovsky",
+      "assignedVendors": "McCullough, Klocko and Ritchie",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "7a761483-f1f8-4c44-8072-3e3bbea46737",
+      "name": "Kuhlman-Hyatt",
+      "city": "Trondheim",
+      "address": "3 Dunning Pass, Trondheim",
+      "assignedUsers": "Dacia Raynton",
+      "assignedVendors": "Dare and Sons",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "70bd2a19-fc8f-42c5-aa10-6decb497faa9",
+      "name": "Roberts, Mante and Ritchie",
+      "city": "Lavandeira",
+      "address": "0 Ronald Regan Street, Lavandeira",
+      "assignedUsers": "Wynn Bradane",
+      "assignedVendors": "Hyatt-Lehner",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "f2dc0900-1e16-4294-8c8a-cff39964dfb3",
+      "name": "Botsford, Zulauf and Von",
+      "city": "Arsen’yev",
+      "address": "3723 West Parkway, Arsen’yev",
+      "assignedUsers": "Brittan Dumbreck",
+      "assignedVendors": "Wintheiser, Schimmel and Weber",
+      "assignedCustomers": "Peter Drown",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "9e5fe201-3d6b-4747-babd-89ff2509ed7e",
+      "name": "Mertz-Rowe",
+      "city": "Krasnohrad",
+      "address": "59 Garrison Pass, Krasnohrad",
+      "assignedUsers": "Alan Cuthbertson",
+      "assignedVendors": "Witting, Terry and Bergnaum",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "c3a9694e-eeea-407b-9e36-2633d137190d",
+      "name": "Grant Inc",
+      "city": "Imrīsh",
+      "address": "87 Maple Place, Imrīsh",
+      "assignedUsers": "Jerrie Blewitt",
+      "assignedVendors": "Stoltenberg-Buckridge",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "a6e52448-8a1a-4853-a63a-e31ea894a02a",
+      "name": "Torphy-Farrell",
+      "city": "Burgas",
+      "address": "9 Del Mar Road, Burgas",
+      "assignedUsers": "Harlene McCluin",
+      "assignedVendors": "Gislason Group",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "cc9ce51f-89f6-47c0-b7fa-9b5e29c9ab33",
+      "name": "Streich Group",
+      "city": "Bethel Town",
+      "address": "398 Hintze Plaza, Bethel Town",
+      "assignedUsers": "Jordana Davidou",
+      "assignedVendors": "Witting Group",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "153e0c1b-5f51-4851-9b9f-cab43f221b46",
+      "name": "Gulgowski-Lowe",
+      "city": "São Manuel",
+      "address": "884 Jana Terrace, São Manuel",
+      "assignedUsers": "Tessi Lante",
+      "assignedVendors": "Weimann Group",
+      "assignedCustomers": "Peter Drown",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "d363dba1-a65f-49f6-9e44-9ac4664e4b8a",
+      "name": "Doyle Group",
+      "city": "Vegreville",
+      "address": "8 Hintze Drive, Vegreville",
+      "assignedUsers": "Barron Alelsandrowicz",
+      "assignedVendors": "Gibson, Barton and Lind",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "d0bc2cf1-f0e4-44d0-8eb8-26f9c62dede3",
+      "name": "Bednar-Macejkovic",
+      "city": "Tunal",
+      "address": "35 Pleasure Plaza, Tunal",
+      "assignedUsers": "Easter Licciardello",
+      "assignedVendors": "Bednar-Ferry",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "df09cc8a-5ac5-4da7-8444-c95c57031377",
+      "name": "Little Group",
+      "city": "Kura",
+      "address": "26849 Gerald Park, Kura",
+      "assignedUsers": "Gayleen Bertelmot",
+      "assignedVendors": "Ward-Waters",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "8e3b7ea4-bba6-49f9-9b68-612cb9b32ec4",
+      "name": "Wiegand, Hoppe and Von",
+      "city": "Krajan",
+      "address": "58464 Meadow Ridge Drive, Krajan",
+      "assignedUsers": "Em Lambricht",
+      "assignedVendors": "Kuvalis and Sons",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "b6ac6737-c03e-4d69-b491-d97e5565ce27",
+      "name": "Krajcik-Rippin",
+      "city": "Svorónos",
+      "address": "60 Raven Trail, Svorónos",
+      "assignedUsers": "Cora Bemrose",
+      "assignedVendors": "Kuhlman Inc",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "50763593-cbd1-4ac9-ade3-7616b746fb6f",
+      "name": "Robel Group",
+      "city": "Siedlce",
+      "address": "1218 Bashford Lane, Siedlce",
+      "assignedUsers": "Larina Divina",
+      "assignedVendors": "Tillman, Becker and Jakubowski",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "ddae76a8-ddca-4124-b798-10f98bf99716",
+      "name": "Gislason LLC",
+      "city": "Ciudad Tecún Umán",
+      "address": "181 Blackbird Place, Ciudad Tecún Umán",
+      "assignedUsers": "Cameron Zumbusch",
+      "assignedVendors": "Aufderhar, Buckridge and VonRueden",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "1135c100-069f-44ca-b57a-2e57620db254",
+      "name": "Franecki-Gleichner",
+      "city": "Esquina",
+      "address": "161 Vermont Lane, Esquina",
+      "assignedUsers": "Bailie Trusler",
+      "assignedVendors": "Dooley-Beer",
+      "assignedCustomers": "Peter Drown",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "d8b5929c-e6c4-48b8-a2ff-9e30fb3ce21d",
+      "name": "Hartmann, Langworth and Batz",
+      "city": "Žandov",
+      "address": "632 New Castle Road, Žandov",
+      "assignedUsers": "Adan MacFadzan",
+      "assignedVendors": "Murazik, King and Muller",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "936da6a7-3b28-458b-93df-aae7c6285048",
+      "name": "Grady, Hettinger and Hessel",
+      "city": "Shaxi",
+      "address": "7 Comanche Parkway, Shaxi",
+      "assignedUsers": "Benni Barnshaw",
+      "assignedVendors": "Cartwright-Barton",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "03eafa44-1563-4d23-8399-1e3170c77304",
+      "name": "Flatley, Hickle and Ledner",
+      "city": "Mahaddayweyne",
+      "address": "575 Fieldstone Hill, Mahaddayweyne",
+      "assignedUsers": "Tracey Steffens",
+      "assignedVendors": "Rath and Sons",
+      "assignedCustomers": "Peter Drown",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "42ab0cea-0e59-46c0-945b-45216cf68f6e",
+      "name": "Crona, Erdman and Zemlak",
+      "city": "Alīpur",
+      "address": "05545 Graceland Alley, Alīpur",
+      "assignedUsers": "Melba Suckling",
+      "assignedVendors": "Nader, Bradtke and Bogisich",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "c90b1e00-97e7-47c4-8b72-a488bcb62101",
+      "name": "Kessler Group",
+      "city": "Jiaozuo",
+      "address": "26 Dovetail Park, Jiaozuo",
+      "assignedUsers": "Tailor Fleming",
+      "assignedVendors": "Dickens, Lemke and Smith",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "24bbd753-7414-4ca9-bab1-9845a068d5b0",
+      "name": "Miller Inc",
+      "city": "Ḩurayḑah",
+      "address": "92977 Sachtjen Terrace, Ḩurayḑah",
+      "assignedUsers": "Evelin Pylkynyton",
+      "assignedVendors": "Emmerich-Ryan",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "c8bcba3d-ce11-4603-955b-4b3d0c42e2a4",
+      "name": "Price-Cronin",
+      "city": "Paulista",
+      "address": "4140 Spohn Junction, Paulista",
+      "assignedUsers": "Laurene Crapper",
+      "assignedVendors": "Champlin Group",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "a8ce9b2e-3291-4575-a0c8-5890b5d742f5",
+      "name": "Kreiger-Towne",
+      "city": "Lorengau",
+      "address": "050 Hazelcrest Parkway, Lorengau",
+      "assignedUsers": "Jerome Mustoo",
+      "assignedVendors": "Bruen Group",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "84653980-900e-4c41-a1c6-66a6f005ab23",
+      "name": "Skiles-Nader",
+      "city": "New York City",
+      "address": "333 Clemons Parkway, New York City",
+      "assignedUsers": "Helenka Grishin",
+      "assignedVendors": "Bode LLC",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "a0ddb6b2-5b99-41c4-945b-0390f6288236",
+      "name": "Gutmann, Hauck and Morissette",
+      "city": "Pantukan",
+      "address": "4 Scott Plaza, Pantukan",
+      "assignedUsers": "Myrlene Bartleman",
+      "assignedVendors": "Brakus, Bergnaum and Upton",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "01817bb2-a72b-43d0-8131-e7adf4c12332",
+      "name": "Kihn-Ruecker",
+      "city": "Bayt Ūlā",
+      "address": "23 Mendota Plaza, Bayt Ūlā",
+      "assignedUsers": "Arley Joule",
+      "assignedVendors": "Bosco Group",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "7c652d79-2604-4fd7-bb42-970f5fd5460c",
+      "name": "Toy, Gottlieb and Gusikowski",
+      "city": "Wuyang",
+      "address": "00 Mendota Plaza, Wuyang",
+      "assignedUsers": "Mavra Gabbetis",
+      "assignedVendors": "Brekke-McLaughlin",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Carving room"
+    },
+    {
+      "id": "635b376d-0fbe-46b6-b805-468a22e99853",
+      "name": "Satterfield Group",
+      "city": "Xianyang",
+      "address": "3 Sachtjen Center, Xianyang",
+      "assignedUsers": "Mona Doring",
+      "assignedVendors": "Harber-Schowalter",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "9cc6ae22-a084-4fa4-a447-132590e77cdc",
+      "name": "Senger, Erdman and Spencer",
+      "city": "San Nicolas",
+      "address": "7 John Wall Junction, San Nicolas",
+      "assignedUsers": "Teddie Witherop",
+      "assignedVendors": "Pouros-Jacobs",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "a6a87d74-a382-4e9e-ad6a-73997e10d83a",
+      "name": "Becker-Baumbach",
+      "city": "Concepcion",
+      "address": "1105 Brentwood Circle, Concepcion",
+      "assignedUsers": "Kent Chelley",
+      "assignedVendors": "Rowe, Klein and Gleason",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "e8e91deb-7456-4aea-9c01-556d80386229",
+      "name": "Hessel LLC",
+      "city": "Timmins",
+      "address": "7527 Stoughton Crossing, Timmins",
+      "assignedUsers": "Devlin Tuma",
+      "assignedVendors": "Stanton and Sons",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "7175b740-fc60-4584-87e0-62e72c94454d",
+      "name": "Renner and Sons",
+      "city": "Chengfeng",
+      "address": "591 Harper Road, Chengfeng",
+      "assignedUsers": "Melodee Mingotti",
+      "assignedVendors": "Cruickshank Group",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "323a6808-3892-45ed-b493-a477606b7610",
+      "name": "Hoeger-Upton",
+      "city": "Kokembang",
+      "address": "1669 Pleasure Drive, Kokembang",
+      "assignedUsers": "Brunhilde McIlory",
+      "assignedVendors": "Reichel LLC",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "2d1b180a-4ffb-49ed-a9d5-8868b6cf4ae1",
+      "name": "Mosciski-Kuhn",
+      "city": "Murcia",
+      "address": "9 Erie Circle, Murcia",
+      "assignedUsers": "Pate Fieldgate",
+      "assignedVendors": "Upton LLC",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Carving room"
+    },
+    {
+      "id": "afbfb8a7-f065-4a77-8dab-8fa8361081e7",
+      "name": "Deckow Inc",
+      "city": "Pryluky",
+      "address": "396 Barnett Junction, Pryluky",
+      "assignedUsers": "Ian de Verson",
+      "assignedVendors": "Renner, Emmerich and Tremblay",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "c19419ab-f0fa-42d7-90ec-c77e96cd7835",
+      "name": "Howell, Turner and Walter",
+      "city": "Ban Phaeo",
+      "address": "99 Village Green Plaza, Ban Phaeo",
+      "assignedUsers": "Gian McCaskill",
+      "assignedVendors": "Runte, Corkery and Jerde",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "734b5fde-4455-44af-bd86-2698b0aa0ad3",
+      "name": "Brown-Williamson",
+      "city": "Hallstavik",
+      "address": "230 Mallard Hill, Hallstavik",
+      "assignedUsers": "Onfroi Gilkes",
+      "assignedVendors": "Cartwright-Stoltenberg",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "fce7d0b2-5d60-489f-9f59-03f90d2c72fc",
+      "name": "Goodwin-Quigley",
+      "city": "Cúa",
+      "address": "019 Dottie Street, Cúa",
+      "assignedUsers": "Celie Whightman",
+      "assignedVendors": "Kuvalis-Jast",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "5cb79c04-e62f-434e-895d-1c6682495856",
+      "name": "Hirthe, Predovic and Franecki",
+      "city": "Itapetinga",
+      "address": "068 Schiller Park, Itapetinga",
+      "assignedUsers": "Annabel Paddick",
+      "assignedVendors": "Reilly and Sons",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "a2467c9f-260b-4cfc-be88-20a3444007c7",
+      "name": "Kassulke LLC",
+      "city": "Jipijapa",
+      "address": "7866 Fisk Parkway, Jipijapa",
+      "assignedUsers": "Hercule Rochell",
+      "assignedVendors": "Ebert LLC",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "32752d29-aad0-4509-82ac-9c15ee9c3f0b",
+      "name": "Kassulke Inc",
+      "city": "La Calera",
+      "address": "89829 Sauthoff Hill, La Calera",
+      "assignedUsers": "Jacquie Kondratowicz",
+      "assignedVendors": "Lindgren Group",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "4e9c2488-9dad-4283-bb4b-82d36adb4780",
+      "name": "Mann, Hauck and Brakus",
+      "city": "Tanalt",
+      "address": "08 Dayton Avenue, Tanalt",
+      "assignedUsers": "Eba Saffon",
+      "assignedVendors": "Harris-Reilly",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "b536a326-b640-4cc3-b599-c9f5f4df5507",
+      "name": "Koepp-Fadel",
+      "city": "Mangaran",
+      "address": "70659 Dottie Parkway, Mangaran",
+      "assignedUsers": "Kira Sodor",
+      "assignedVendors": "Brakus, Powlowski and Toy",
+      "assignedCustomers": "Peter Drown",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "5be43a45-d91c-4cd8-8efd-94bcf3d97598",
+      "name": "Senger LLC",
+      "city": "Tabuaço",
+      "address": "4864 Cordelia Avenue, Tabuaço",
+      "assignedUsers": "Layton Franzoli",
+      "assignedVendors": "Hills LLC",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "f2a8708e-8725-4428-9e3b-e8485dae35d8",
+      "name": "Nienow Group",
+      "city": "Adiwerna",
+      "address": "85 Summit Circle, Adiwerna",
+      "assignedUsers": "Berne Leyburn",
+      "assignedVendors": "Boyer, Sauer and Bednar",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "ec844967-11a9-468f-9856-ca43d4c4e3c4",
+      "name": "Schmitt-Hettinger",
+      "city": "Hongyanxi",
+      "address": "5792 Everett Street, Hongyanxi",
+      "assignedUsers": "Carling Symones",
+      "assignedVendors": "Hoeger, Fritsch and Feest",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Carving room"
+    },
+    {
+      "id": "d3bfd8d2-1730-4e6f-8285-341e2e3608b3",
+      "name": "Mills, Kohler and Wisozk",
+      "city": "Agen",
+      "address": "3311 Packers Crossing, Agen",
+      "assignedUsers": "Jenifer Cowderay",
+      "assignedVendors": "Leannon, Frami and Kassulke",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "ff314a25-9417-4b4d-b3ac-c10a0255ef66",
+      "name": "Cassin-Zieme",
+      "city": "Kwangyang",
+      "address": "02 Hazelcrest Plaza, Kwangyang",
+      "assignedUsers": "Blanca Jarrelt",
+      "assignedVendors": "Ankunding-Rodriguez",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Meeting room"
+    },
+    {
+      "id": "d1baeb35-ba36-4cf9-a458-8bfaa2fe9c00",
+      "name": "Hoeger-Berge",
+      "city": "Kompóti",
+      "address": "34 Cascade Road, Kompóti",
+      "assignedUsers": "Henka Brehat",
+      "assignedVendors": "Osinski LLC",
+      "assignedCustomers": "Jack Bones",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "04fa6f34-a8fb-4bee-a940-64a9928743e3",
+      "name": "Grant, Kovacek and Krajcik",
+      "city": "São Lourenço do Sul",
+      "address": "0346 Oak Point, São Lourenço do Sul",
+      "assignedUsers": "Marsha Babar",
+      "assignedVendors": "Bergnaum Group",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "eeac9118-099f-4d63-9734-0c4a373fdab5",
+      "name": "Dare, Schiller and Kulas",
+      "city": "Wuppertal",
+      "address": "273 Arkansas Park, Wuppertal",
+      "assignedUsers": "Kizzee Bickerstasse",
+      "assignedVendors": "Olson-Zboncak",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "5c9d4335-0acb-403c-bece-0a9c017e8815",
+      "name": "Torphy, Harris and Bernier",
+      "city": "Dhaka",
+      "address": "03 Boyd Center, Dhaka",
+      "assignedUsers": "Jimmie Prettjohn",
+      "assignedVendors": "Nader-Marquardt",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Carving room"
+    },
+    {
+      "id": "34548bad-e632-4ea9-8fcb-cd1457125184",
+      "name": "Quigley-Barton",
+      "city": "Divichibazar",
+      "address": "711 Basil Park, Divichibazar",
+      "assignedUsers": "Ryon Wortley",
+      "assignedVendors": "Hilpert, Mann and Simonis",
+      "assignedCustomers": "Peter Drown",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "bb9065b1-40a9-4d4e-aa1f-a94b85325a5c",
+      "name": "Johns-Thompson",
+      "city": "Aḑ Ḑil‘",
+      "address": "157 Red Cloud Crossing, Aḑ Ḑil‘",
+      "assignedUsers": "Quinlan Edney",
+      "assignedVendors": "Erdman, Barrows and Veum",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Room15"
+    },
+    {
+      "id": "05d203fa-f396-4e13-b83c-540996981f53",
+      "name": "Fritsch Group",
+      "city": "Dawan",
+      "address": "2283 Jenna Alley, Dawan",
+      "assignedUsers": "Sheree Dawney",
+      "assignedVendors": "Weber-Zboncak",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "2ecc7b70-b2eb-45e6-9a9e-1a9bd913d6c1",
+      "name": "Bauch, Walter and Dach",
+      "city": "Nové Město nad Metují",
+      "address": "62 Katie Crossing, Nové Město nad Metují",
+      "assignedUsers": "Rodge Jullian",
+      "assignedVendors": "Abbott LLC",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "50e67695-907f-484e-878d-a99baa6f9086",
+      "name": "Anderson-Hansen",
+      "city": "Zhagang",
+      "address": "163 School Trail, Zhagang",
+      "assignedUsers": "Shannon Watkiss",
+      "assignedVendors": "Auer, Beatty and Wintheiser",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "da47fdec-6871-4eda-85e7-8e65df9b7ff0",
+      "name": "Gleason LLC",
+      "city": "Comrat",
+      "address": "62 Prairie Rose Pass, Comrat",
+      "assignedUsers": "Chico Philpault",
+      "assignedVendors": "Hagenes, Rolfson and Beier",
+      "assignedCustomers": "Josh Harris",
+      "subLocations": "Carving room"
+    },
+    {
+      "id": "d0d3ab8a-22a5-40e1-b521-8b241b3107b2",
+      "name": "Lockman LLC",
+      "city": "Kuhmalahti",
+      "address": "88 Holmberg Hill, Kuhmalahti",
+      "assignedUsers": "Paul Novis",
+      "assignedVendors": "Koepp-Doyle",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Room24"
+    },
+    {
+      "id": "53d6bf86-6d36-4190-bd86-f98c811b787b",
+      "name": "Feest, Weissnat and Lynch",
+      "city": "Troyes",
+      "address": "70 Warbler Way, Troyes",
+      "assignedUsers": "Lindsey Roskelly",
+      "assignedVendors": "Lebsack Inc",
+      "assignedCustomers": "Peter Drown",
+      "subLocations": "Studio"
+    },
+    {
+      "id": "7e9539a2-0e64-4f07-bec2-9fc0618f0534",
+      "name": "Collier Group",
+      "city": "Kontagora",
+      "address": "424 Drewry Terrace, Kontagora",
+      "assignedUsers": "Isabeau Fieldstone",
+      "assignedVendors": "Denesik, Gerhold and Cummerata",
+      "assignedCustomers": "Jessica Clark",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "d7c07d8b-c8ee-4383-a712-62447c161e52",
+      "name": "Swaniawski-D'Amore",
+      "city": "Rivne",
+      "address": "517 Bunker Hill Park, Rivne",
+      "assignedUsers": "Shayna Gallichiccio",
+      "assignedVendors": "Bauch-Little",
+      "assignedCustomers": "Samantha Carlisle",
+      "subLocations": "Cleaning room"
+    },
+    {
+      "id": "00038abf-4015-494e-ab6a-381c305ea2c1",
+      "name": "Yundt and Sons",
+      "city": "Caloue",
+      "address": "467 Merry Trail, Caloue",
+      "assignedUsers": "Daisi Romney",
+      "assignedVendors": "Waelchi, Ward and Ferry",
+      "assignedCustomers": "John Steel",
+      "subLocations": "Technical room"
+    },
+    {
+      "id": "4df15950-13a4-473d-b141-99cf1c7a829d",
+      "name": "Lehner-Friesen",
+      "city": "Furudate",
+      "address": "04776 Sunbrook Center, Furudate",
+      "assignedUsers": "Dominik Maly",
+      "assignedVendors": "Hintz, Zemlak and Zboncak",
+      "assignedCustomers": "Alisha Mendez",
+      "subLocations": "Studio"
+    }
+  ]
+}
